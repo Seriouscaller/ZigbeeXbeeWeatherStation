@@ -1,0 +1,5 @@
+﻿  XbeeReceiver.cpp
+C:\Users\ralli\source\repos\Dataframes Test Project\XbeeFrames\XbeeReceiver.cpp(149,13): warning C4101: 'buffer': unreferenced local variable
+C:\Users\ralli\source\repos\Dataframes Test Project\XbeeFrames\XbeeReceiver.cpp(96,1): warning C4715: 'receiveFrame': not all control paths return a value
+XbeeSender.obj : error LNK2005: main already defined in XbeeReceiver.obj
+C:\Users\ralli\source\repos\Dataframes Test Project\x64\Debug\XbeeFrames.exe : fatal error LNK1169: one or more multiply defined symbols found
