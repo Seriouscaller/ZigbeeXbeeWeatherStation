@@ -1,7 +1,4 @@
 # Zigbee Smart Home Weather Station
-<p align="center">
-  <img src="[images/finished_project.png](https://github.com/user-attachments/assets/aff7b2b2-6a6c-4b60-a16e-d0e7e5b77ac7)" width="500" title="Finished Weather Station">
-</p>
 <img width="496" height="481" alt="Display" src="https://github.com/user-attachments/assets/aff7b2b2-6a6c-4b60-a16e-d0e7e5b77ac7" /><img width="759" height="709" alt="System" src="https://github.com/user-attachments/assets/79aff351-bf34-4fa8-8650-9f258def7ced" />
 
 A prototype wireless communication system for a smart home environment. This project utilizes Zigbee (802.15.4) modules in API mode to network multiple sensor nodes with a central coordinator and a graphical display.
