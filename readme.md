@@ -1,4 +1,7 @@
 # Zigbee Smart Home Weather Station
+<p align="center">
+  <img src="[images/finished_project.png](https://github.com/user-attachments/assets/aff7b2b2-6a6c-4b60-a16e-d0e7e5b77ac7)" width="500" title="Finished Weather Station">
+</p>
 <img width="496" height="481" alt="Display" src="https://github.com/user-attachments/assets/aff7b2b2-6a6c-4b60-a16e-d0e7e5b77ac7" /><img width="759" height="709" alt="System" src="https://github.com/user-attachments/assets/79aff351-bf34-4fa8-8650-9f258def7ced" />
 
 A prototype wireless communication system for a smart home environment. This project utilizes Zigbee (802.15.4) modules in API mode to network multiple sensor nodes with a central coordinator and a graphical display.
@@ -29,7 +32,11 @@ Wireless: 4x XBee S2C Modules (Zigbee).
 Sensors: 2x DHT11 Temperature & Humidity Sensors.  
 Display: 1x SSD1306 OLED Display.  
 Custom Enclosures: 3D-printed mounts and housings designed in Autodesk Fusion 360.  
+  
+Display Node:
 <img width="472" height="703" alt="Receiver" src="https://github.com/user-attachments/assets/fe2e0c69-70b3-4152-b1cf-cddb2520810a" />
+  
+Sensor Nodes:
 <img width="481" height="593" alt="sensor" src="https://github.com/user-attachments/assets/5d09cca4-0ecc-4734-8985-bbec910a05e4" />
 
 ## Software Architecture
