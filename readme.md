@@ -17,6 +17,9 @@ Unlike simple "Transparency Mode," this project uses API Mode, where data is wra
 * Mesh Networking: Increased reliability through self-healing and multiple data pathways.
 * Addressing: Utilization of permanent 64-bit MAC addresses for unique device identification.
 * Error Checking: Custom checksum validation to ensure data integrity during transmission.
+
+<img width="765" height="423" alt="Screenshot_11" src="https://github.com/user-attachments/assets/f416329d-4199-4757-88cf-3344fa48fbd0" />
+
 ### Data Encoding Strategy
 To avoid the complexity of sending floating-point numbers over UART, a custom integer-offset method was implemented:
 1. The float reading (e.g., 21.5°C) is multiplied by 10 (215).
